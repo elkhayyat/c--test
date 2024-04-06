@@ -1,0 +1,14 @@
+/Users/elkhayyat/DotNet/helloworld/bin/Debug/net8.0/helloworld
+/Users/elkhayyat/DotNet/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/elkhayyat/DotNet/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/elkhayyat/DotNet/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/elkhayyat/DotNet/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/elkhayyat/DotNet/helloworld/obj/Debug/net8.0/ref/helloworld.dll
