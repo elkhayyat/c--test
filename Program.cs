@@ -10,6 +10,12 @@ if (permission.Contains("Admin"))
     {
         Console.WriteLine("Welcome, Admin user.");
     }
+}else if (permission.Contains("Manager"))
+{
+    if (level >= 20)
+    {
+        Console.WriteLine("Contact an Admin for access.");
+    }
 }
 else
 {
