@@ -27,3 +27,25 @@ else
 {
     Console.WriteLine("You do not have sufficient privileges.");
 }
+
+
+if (permission.Contains("Admin") && level > 55)
+{
+    Console.WriteLine("Welcome, Super Admin user.");
+}
+else if (permission.Contains("Admin"))
+{
+    Console.WriteLine("Welcome, Admin user.");
+}
+else if (permission.Contains("Manager") && level >= 20)
+{
+    Console.WriteLine("Contact an Admin for access.");
+}
+else if (permission.Contains("Manager"))
+{
+    Console.WriteLine("Welcome, Manager user.");
+}
+else
+{
+    Console.WriteLine("You do not have sufficient privileges.");
+}
